@@ -12,4 +12,6 @@ Built With
 - JavaScript
 - GitHub REST API
 
-Demo[Demo.PNG]
+Demo
+![Demo](Demo.png)
+
