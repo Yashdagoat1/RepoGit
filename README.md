@@ -12,6 +12,4 @@ Built With
 - JavaScript
 - GitHub REST API
 
-Demo
-![Demo](/.Demo.png)
-
+![Repogit UI](Demo.png)
