@@ -9,8 +9,7 @@ Repogit is a simple web app that allows users to search and view GitHub profiles
 - JavaScript fetch API for async GitHub data
 
 ## 📸 Screenshot
-![Repogit UI](Demo.png)
-
+![Repogit UI](repogit.png.PNG)
 ## 🔗 Live Demo
 # 🔍 Repogit – GitHub Profile Finder
 https://yashdagoat1.github.io/RepoGit/
